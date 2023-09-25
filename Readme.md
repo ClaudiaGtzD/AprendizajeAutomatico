@@ -9,3 +9,6 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 ### Semana 1
 - [Ejemplo de Regresión Lineal en Python](./Semana01/Regresion_Lineal.ipynb)
 - [Tarea 1: Selección de datos para el curso](./Semana01/Tarea_01.ipynb)
+
+### Semana 2
+- [Tarea 2: Limpieza de datos](./Semana02/Tarea_02.ipynb)
