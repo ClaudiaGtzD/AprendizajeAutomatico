@@ -12,3 +12,6 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 
 ### Semana 2
 - [Tarea 2: Limpieza de datos](./Semana02/Tarea_02.ipynb)
+
+### Semana 3
+- [Tarea 3: Estadísticos](./Semana03/Tarea_03.ipynb)
