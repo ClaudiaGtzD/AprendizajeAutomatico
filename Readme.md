@@ -20,4 +20,4 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 - [Tarea 4: Selección de Características](./Semana04/Tarea_04.ipynb)
 
 ### Semana 5
-- [Tarea 5: Aprendizaje no supervisado](./Semana05/Tarea_05.ipynb)
+- [Tarea 5: Aprendizaje no supervisado-EN PROCESO](./Semana05/Tarea_05.ipynb)
