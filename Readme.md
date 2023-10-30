@@ -22,3 +22,10 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 ### Semana 5
 - [Tarea 5: Aprendizaje no supervisado - Archivo Python](./Semana05/Tarea_05.ipynb)
 - [Tarea 5: Aprendizaje no supervisado - Archivo PDF](./Semana05/05_Aprendizaje_no_supervisado.pdf)
+
+### Semana 6
+- [Tarea 6: Aprendizaje supervisado - Archivo Python](./Semana06/Tarea_06.ipynb)
+- [Tarea 6: Aprendizaje supervisado - Archivo PDF](./Semana06/06_Aprendizaje_Supervisado.pdf)
+
+### Semana 7
+- [Tarea 7: Hackaton](./Semana07/Clase_07.ipynb)
