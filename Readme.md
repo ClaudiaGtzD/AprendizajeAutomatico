@@ -29,3 +29,12 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 
 ### Semana 7
 - [Tarea 7: Hackaton](./Semana07/Clase_07.ipynb)
+
+### Semana 8
+- [Tarea 8: Métricas de Desempeño](./Semana08/Clase_08.ipynb)
+
+### Semana 9
+- [Tarea 9: Preparación de resultados del artículo](./Semana09/09_Aprendizaje_Automático_para_la_predicción_de_la_Generación_de_Energía_Solar.pdf)
+
+### Semana 10
+- [Tarea 10: Artículo final](./Semana10/10_Aprendizaje_Automático_para_la_predicción_de_la_Generación_de_Energía_Solar.pdf)
