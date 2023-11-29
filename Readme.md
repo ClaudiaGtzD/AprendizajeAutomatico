@@ -37,4 +37,7 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 - [Tarea 9: Preparación de resultados del artículo](./Semana09/09_Aprendizaje_Automático_para_la_predicción_de_la_Generación_de_Energía_Solar.pdf)
 
 ### Semana 10
-- [Tarea 10: Artículo final](./Semana10/10_Aprendizaje_Automático_para_la_predicción_de_la_Generación_de_Energía_Solar.pdf)
+- [Tarea 10: Artículo revisión](./Semana10/10_Aprendizaje_Automático_para_la_predicción_de_la_Generación_de_Energía_Solar.pdf)
+
+### Semana 11
+- [Tarea 10: Artículo final](./Semana11/09_Aprendizaje_Automático_para_la_predicción_de_la_Generación_de_Energía_Solar_2.pdf)
